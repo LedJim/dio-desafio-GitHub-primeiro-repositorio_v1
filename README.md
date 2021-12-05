@@ -1,5 +1,5 @@
 # dio-desafio-GitHub-primeiro-repositorio_v1
-## Repositório do Desafio de Projeto sobre Git/GitHub da DIO mediante o Browser
+## Repositório criado para o Desafio de Projeto sobre Git/GitHub da DIO mediante o Browser
  [Desafio de Projeto sobre Git/GitHub] - Criando seu 1ro Repositório no GitHub para Compartilhar Seu Progresso
  
  ### Links Úteis
